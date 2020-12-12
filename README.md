@@ -1,5 +1,5 @@
 # aoc_2020
-This repo contains my solutions in C++ for Advent of Code's 2020 edition.
+This repo contains my solutions in C++ for [Advent of Code's](https://adventofcode.com/) 2020 edition.
 As I've always worked with Linux, I wanted to take this oportunity to setup
 my personal Windows computer and see how does working in this OS looks like.
 
