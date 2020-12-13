@@ -83,7 +83,7 @@ std::pair<size_t, size_t> find_range(const size_t weakness, const std::vector<si
 
             if (sum > weakness)
             {
-                continue;
+                break;
             }
         }
     }
