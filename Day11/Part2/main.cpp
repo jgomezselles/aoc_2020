@@ -2,8 +2,6 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <memory>
-#include <map>
 
 std::vector<std::string> load_seats()
 {
