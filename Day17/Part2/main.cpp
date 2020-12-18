@@ -59,7 +59,7 @@ std::vector<position> get_neighbors(const position &p)
     return neighs;
 }
 
-char get_next_state(const position &p, const mesh &prev)
+bool get_next_state(const position &p, const mesh &prev)
 {
     size_t active_neighbors{0};
     bool was_active{false};
